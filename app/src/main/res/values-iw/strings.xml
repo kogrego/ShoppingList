@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shopping Cart</string>
+    <string name="password">סיסמא</string>
+    <string name="e_mail">אי-מייל</string>
+    <string name="log_in">התחבר</string>
+    <string name="sign_up">הרשם</string>
+    <string name="logo">logo</string>
+</resources>
